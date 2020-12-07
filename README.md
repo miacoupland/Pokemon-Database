@@ -1,2 +1,3 @@
 # Pokemon-Database
-MySQL database made for a CFG project. Keeps track of Pokemon stats, abilities, etc and can be use to make teams.
+'Pokemon Database' is a MySQL database made for a Code First Girls Introduction to Python project.
+The database keeps track of Pokemon stats, abilities, evolutions, et cetera, and can be used to form Pokemon teams.
